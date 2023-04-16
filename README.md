@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciuslima2006)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=viniciuslima2006)](https://github.com/viniciuslima2006/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=viniciuslima2006&theme=onedark)](https://github.com/viniciuslima2006/github-profile-trophy)
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
