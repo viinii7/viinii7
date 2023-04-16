@@ -1,7 +1,7 @@
 ### Olá 👋
 
 <!--
-**viniciuslima2006/viniciuslima2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**viinii7/viinii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <img align="center" alt="Coding" width="400" weight="300" src="https://user-images.githubusercontent.com/77249366/232326519-abc35ef9-5e11-42f7-8e4b-7852cf8e1663.gif">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciuslima2006)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viinii7)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=viniciuslima2006&theme=tokyonight)](https://github.com/viniciuslima2006/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=viinii7&theme=tokyonight)](https://github.com/viinii7/github-profile-trophy)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
