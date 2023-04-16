@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="instagram.com/_viinii7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
-
-![snake gif](https://github.com/viinii7/viinii7/blob/output/github-contribution-grid-snake.svg)
