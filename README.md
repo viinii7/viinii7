@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![4k Rengoku Demon Slayer](https://user-images.githubusercontent.com/77249366/232326519-abc35ef9-5e11-42f7-8e4b-7852cf8e1663.gif)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciuslima2006)](https://git.io/streak-stats)
