@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt="Coding" width="400" weight="300" src="https://user-images.githubusercontent.com/77249366/232326519-abc35ef9-5e11-42f7-8e4b-7852cf8e1663.gif">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/77249366/232326519-abc35ef9-5e11-42f7-8e4b-7852cf8e1663.gif">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viinii7)](https://git.io/streak-stats)
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/formandodev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=viinii7&theme=tokyonight)](https://github.com/viinii7/github-profile-trophy)
 
@@ -30,9 +34,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<h3 align="left">Fale comigo:</h3>
-<p align="left">
+<h3 align="center">Fale comigo:</h3>
+<p align="center">
   <a href="instagram.com/_viinii7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
-
+![snake gif](https://github.com/viinii7/viinii7/blob/output/github-contribution-grid-snake.svg)
