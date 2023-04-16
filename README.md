@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciuslima2006)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=viniciuslima2006)](https://github.com/viniciuslima2006/github-profile-trophy)
+
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="instagram.com/_viinii7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
